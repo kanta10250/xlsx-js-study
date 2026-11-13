@@ -1,0 +1,12 @@
+node_modules/
+
+# Logs
+*.log
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
